@@ -1,0 +1,20 @@
+[MODlist header]<!-- this is basic html template, you can use it to create your own html template-->
+<html>
+<head>
+<title>Module list</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<table>
+<tr>
+<th>Filename</th>
+<th>Title</th>
+<th>Time</th>
+<th>Size</th>
+</tr>
+[/MODlist header]
+[MODlist RS]<tr>[/MODlist RS][MODlist BR][/MODlist BR][MODlist RE]</tr>[/MODlist RE]
+[MODlist CS]<td>[/MODlist CS][MODlist BC][/MODlist BC][MODlist CE]</td>[/MODlist CE]
+[MODlist footer]</table>
+</body>
+</html>[/MODlist footer]

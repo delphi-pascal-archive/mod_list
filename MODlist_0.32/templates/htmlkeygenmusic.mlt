@@ -1,0 +1,19 @@
+[MODlist header]<html>
+<head>
+<title>Module list</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+</head>
+<body bgcolor="black" text="#00CC00" link="#00CC00" vlink="#009900" alink="#00FF66" style="scrollbar-face-color:rgb(0,204,0); scrollbar-base-color:rgb(0,204,0); scrollbar-track-color:black;">
+<table align="center" border="0" bordercolordark="#006600" bordercolorlight="#00FF66" bordercolor="#009900" cellspacing="3" cellpadding="3">
+<tr>
+<th>:::&nbsp;Filename&nbsp;:::</th>
+<th>:::&nbsp;Title&nbsp;:::</th>
+<th>:::&nbsp;Time&nbsp;:::</th>
+<th>:::&nbsp;Size&nbsp;:::</th>
+</tr>
+[/MODlist header]
+[MODlist RS]<tr>[/MODlist RS][MODlist BR][/MODlist BR][MODlist RE]</tr>[/MODlist RE]
+[MODlist CS]<td>[/MODlist CS][MODlist BC][/MODlist BC][MODlist CE]</td>[/MODlist CE]
+[MODlist footer]</table>
+</body>
+</html>[/MODlist footer]
